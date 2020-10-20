@@ -43,6 +43,7 @@ namespace Atividade_03
                     else
                     {
                         MessageBox.Show("Selecione um gênero");
+                        return;
                     }                   
                 }                
                 
